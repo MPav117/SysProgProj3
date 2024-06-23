@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "g5WK1Prv5JT3ghNUnF0PreUeagWRGGFzhkr/ylc4ZJ/th9IGc+d8W0v8DXteMSHGG0x924VcpGYFyvY/vs7uLw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\marko\\source\\repos\\SP3\\SP3\\SP3.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\marko\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
+    "C:\\Users\\marko\\.nuget\\packages\\system.reactive\\6.0.1\\system.reactive.6.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
